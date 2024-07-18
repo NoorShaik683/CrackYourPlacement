@@ -8,8 +8,6 @@ class Solution:
         #         curr_sum+=nums[j]
         #         if curr_sum==k:
         #             c+=1
-        #         elif curr_sum>k:
-        #             break
         # return c
 
         d={0:1}
